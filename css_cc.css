@@ -1,0 +1,13 @@
+form{
+    text-align: center;
+    border: 2px solid purple ;
+    width: 350px;
+    background-color: silver;
+
+}
+input{
+    margin: 0px;
+}
+textarea{
+    resize: none;
+}
